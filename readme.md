@@ -1,6 +1,6 @@
 # Obsidian URL-short Plugin
 
-ru
+ru <br>
 **Контекст**: Obsidian представляет собой менеджер заметок, который можно расширять плагинами на TypeScript.
 
 **Задача** - сокращения ссылок. 
@@ -10,7 +10,7 @@ ru
 2. Обращение к API сервиса "Яндекс Кликер".
 3. Копирование ответа сервера в буфер обмена.
 
-en
+en <br>
 **Context**: Obsidian is a note manager that can be extended with TypeScript plugins.
 
 **Task** - shorten links. 
